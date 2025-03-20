@@ -29,7 +29,7 @@ export default function Home() {
   const bullet2 = "> BUILD WITH AI"
   const bullet3 = "> ACHIEVE LONG-TERM GOALS"
   const content = "IN ORDER TO DO THIS, I AM CURRENTLY CREATING CONTENT ON SOCIAL MEDIA AND BUILDING A STEALTH APP."
-  const readMore = "TO LEARN MORE ABOUT MY STORY >"
+  const readMore = "TO LEARN MORE ABOUT MY STORY AND WIN >"
 
   // Cursor refs
   const missionCursorRef = useRef<HTMLSpanElement>(null)
