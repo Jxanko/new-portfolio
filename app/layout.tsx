@@ -5,7 +5,7 @@ import type { Metadata } from "next"
 import { GeistMono } from "geist/font/mono"
 
 export const metadata: Metadata = {
-  title: "Juan'ko",
+  title: "JUAN'KO",
   description: "Personal website of Juan'ko",
     generator: 'v0.dev'
 }
