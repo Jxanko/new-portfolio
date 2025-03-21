@@ -43,7 +43,7 @@ export default function MyStory() {
   ]
 
   const conclusionContent = [
-    "I CREATE CONTENT TO HELP OTHERS LEARN AI AND BUILD SOFTWARE.",
+    "I CREATE AND POST ON X TO HELP OTHERS LEARN AI AND BUILD SOFTWARE TOGETHER.",
     "I CONTINUE TO BUILD SOFTWARE IN STEALTH.",
   ]
 
@@ -92,7 +92,7 @@ export default function MyStory() {
 
         setTimeout(() => {
           setShowRizzGPT(true)
-          typeText("RIZZGPT, JULY 2023", setRizzGPTTitle, rizzGPTCursorRef, () => {
+          typeText("MADE 6 FIGURES IN CRYPTO, JULY 2023", setRizzGPTTitle, rizzGPTCursorRef, () => {
             setShowRizzGPTContent(true)
 
             setTimeout(() => {
@@ -288,11 +288,11 @@ export default function MyStory() {
                   transition={{ duration: 0.5 }}
                   className="list-disc pl-6 space-y-1 uppercase text-xs tracking-wide"
                 >
-                  <li>CAN CODE, DESIGN, AND MARKET</li>
-                  <li>BENCH 225+, SQUAT 315+, DEADLIFT 405+</li>
+                  <li>CAN CODE IN RT AND SWIFT, DESIGN</li>
+                  <li>50 PULLUPS IN A ROW</li>
                   <li>RUN &lt;6 MINUTE MILE</li>
-                  <li>$1.5M / MONTH REVENUE</li>
-                  <li>1900 LICHESS</li>
+                  <li>MADE 6 FIGURES + IN CRYPTO, NOW MOVING INTO REAL STUFF</li>
+                  <li>1100 CHESS.COM</li>
                 </motion.ul>
               )}
             </motion.div>
